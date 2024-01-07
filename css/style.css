@@ -38,7 +38,7 @@
 /* section 1 er kaj shuru */
 .section-1{
      width: 802px;
-     height: 1900px;
+     height: 900px;
      margin:150px 559px 50px 559px;
      text-align: center;
      box-sizing: border-box;
@@ -71,6 +71,65 @@
 .all-catagory{
     font-size: 32px;
     margin-top: 15px;
+}
+
+
+
+/* section-2 er kaj shuru */
+.section-2{
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: linear-gradient(rgba(5, 4, 4, 0.831), rgba(255, 255, 255, 0.03)), url('../resources/Vectorrr.png');
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    margin: 50px 300px 100px 300px;
+    display: flex;
+    color: white;
+   
+}
+
+.bannerer-likhalikhi{
+    width: 870px;
+    display: flex;
+    align-items: center;
+}
+
+.bannerer-likhalikhi .bannerer-tags {
+    margin-left: 15px;
+}
+
+#welcome{
+    font-weight: 900;
+    font-size: 55px;
+    margin-left: 120px;
+}
+
+#party-description{
+    margin: 50px 120px 80px 120px;
+}
+
+#join-now {
+    margin-left: 120px;
+    background-color: grey;
+    
+    
+}
+
+#join-now >a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+
+#duihajar24-pic {
+    display: flex;
+    justify-content: center;
+    margin-top: 34px;
+    margin-left: 15px;
+    font-family: Merriweather;
+    font-style: normal;
+    line-height: 95px; 
 }
 
 
