@@ -133,3 +133,51 @@
 }
 
 
+
+
+/* common section */
+
+.common{
+    width: 1320px;
+    height: 400px;
+    margin: 50px 300px 100px 300px;
+
+}
+
+
+
+/* section-3 er kaj shuru */
+
+
+
+.section-3{
+background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%); 
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+ margin-bottom: 100px;
+}
+
+.section-3 h4{
+      margin-bottom: 20px;
+      
+      font-size: 30px;
+       
+}
+
+#section-3-buttun {
+    background-color: #F00;
+    border-radius: 5px;
+    padding: 5px 12px;
+    height: 43px;
+    width: 130px;
+    margin-left: 600px;
+}
+
+#section-3-buttun >a{
+    text-decoration: none;
+     color: white;
+}
+
+
