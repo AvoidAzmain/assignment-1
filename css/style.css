@@ -32,3 +32,45 @@
     font-style: normal;
     line-height: 95px; 
 }
+
+
+
+/* section 1 er kaj shuru */
+.section-1{
+     width: 802px;
+     height: 1900px;
+     margin:150px 559px 50px 559px;
+     text-align: center;
+     box-sizing: border-box;
+}
+
+.off{
+    color: rgb(206, 18, 18);
+    text-align: center;
+    font-family: Inter;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 42px;
+}
+
+
+
+.section-1 >h5{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 15x;
+}
+
+.all-catagory{
+    font-size: 32px;
+    margin-top: 15px;
+}
+
+
