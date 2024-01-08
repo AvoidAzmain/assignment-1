@@ -181,3 +181,28 @@ text-align: center;
 }
 
 
+
+/* section-4 er kaj shuru */
+
+.section-4{
+    display: flex;
+    gap: 30px;
+}
+
+#round-image{
+    border-radius: 50%;
+    padding: 20px;
+    border: 10px solid red;
+}
+
+.section-4-likhalikhi >h4{
+    margin-top: 20px;
+    margin-bottom: 23px;
+}
+
+.section-4-likhalikhi >h2{
+    font-size: 47px;
+    margin-bottom: 20px;
+}
+
+
