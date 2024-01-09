@@ -299,6 +299,45 @@ text-align: center;
 
 
 
+/* section-9 er kaj shuru */
+.section-9{
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.section-9-subscribe-form{
+    margin-top: 25px;
+}
+
+#text-input{
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+    width: 550px;
+    height: 60px;
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.section-9-subscribe-form button{
+    color: #FFF;
+    text-align: center;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 250px;
+    height: 60px;
+    position: relative;
+    margin-left: -10px;
+}
+
+
+
 
 
 
